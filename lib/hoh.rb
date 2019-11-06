@@ -53,6 +53,7 @@ def naming_system
         }
       }
   }
+  earth
   # Remember:
   #  Kingdom
   #  Phylum
